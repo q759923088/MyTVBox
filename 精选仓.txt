@@ -1,0 +1,59 @@
+//为防止接口被用于商业演示引流，因此将所有接口前全部添加多多，不介意给我引流的话，可以直接fork或直接引用，个人用户应该无所谓。
+//此多仓接口列表为公众号【多☆多影音】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+{
+    "urls": [	 
+        {
+            "url": "https://112851545820762112.abvod.cn/duo/config.bin",
+            "name": "🚀推荐┃①多多线路"
+        }, 		
+        {
+            "url": "https://yydsys.cc.cd/config.bin",
+            "name": "🚀推荐┃②多多备用"
+        }, 		
+        {
+            "url": "https://cdn.jsdelivr.net/gh/q759923088/MyTVBox@main/ok_api.json",
+            "name": "🚀推荐┃自建OK"
+        }, 
+         {
+            "url": "https://www.252035.xyz/p/jsm.json",
+            "name": "🚀多多┃③PG线路"
+        }, 
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "🚀多多┃④饭太硬线路"
+        },                                                                                                 
+        {
+            "url": "https://www.252035.xyz/z/FongMi.json",
+            "name": "🚀多多┃⑤真心线路"
+        },
+        {
+            "url": "https://xduo.codered.cloud/ok/api.json",
+            "name": "🚀多多┃⑥OK线路"
+        },
+        {
+            "url":"https://fastgit.cc/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
+            "name": "🚀多多┃⑦东篱线路"
+        }, 	
+        {
+            "url": "https://17264.kstore.space/哈基米.png",
+            "name": "🚀多多┃⑧哈基米线路"
+        },				
+        {
+            "url": "https://code.onedev.io/vox/~raw/master/demo.json",
+            "name": "🚀多多┃⑨vox线路"
+        },  
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "🚀多多┃⑩王二小线路"
+        },
+        {
+            "url": "http://tv.laohu.cool/tvbox.json",
+            "name": "🚀多多┃⑪老虎线路"
+        },
+        {
+            "url": "http://mytv6688.xyz/aowu/config",
+            "name": "🚀多多┃⑫嗷呜线路"
+        }
+    ]
+}
+

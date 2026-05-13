@@ -11,7 +11,7 @@
             "name": "🚀推荐┃②多多备用"
         }, 		
         {
-            "url": "https://raw.githubusercontent.com/q759923088/MyTVBox/refs/heads/main/ok_api.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/q759923088/MyTVBox/refs/heads/main/OKNB.json",
             "name": "🚀推荐┃③自建OK"
         }, 
          {
